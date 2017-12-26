@@ -1,6 +1,3 @@
-Anna
-Pete
-Jonathan
 
 Jonathan : Hey Pete, who's your friend?
 Pete : She is Anna. She is new to D.C.
