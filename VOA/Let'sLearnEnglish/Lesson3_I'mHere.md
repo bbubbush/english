@@ -6,6 +6,7 @@ Anna : I live with Marsha. We are roommates. I want to cook dinner.
 Anna : Oh! Hm... Is there a supermarket near here? Marsha knows.
 
 
+
 Anna : Marsha's work number is 555-8986. Hello? Is this Marsha? It is Anna.
 
 ??? : I'm sorry. You have the wrong number.
@@ -17,6 +18,7 @@ Anna : Is this 555-8986?
 Anna : Oh, Excuse me.
 
 ??? : Okay. Bye.
+
 
 
 Anna : One more time. 555-8986. Please be Marsha.
@@ -38,6 +40,7 @@ Marsha : Oh, okay. The supermarket is at 1500 Irving Street. It is near the apar
 Anna : Great. Goodbye.
 
 Marsha : Goodbye, Anna.
+
 
 
 Anna : There is a big supermarket on our street. And Marsha says I am a good cook. Until next time. Bye.
