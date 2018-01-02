@@ -19,7 +19,7 @@ Anna : Oh, Excuse me.
 
 ??? : Okay. Bye.  
 
-
+** **
 
 Anna : One more time. 555-8986. Please be Marsha.
 
@@ -41,7 +41,7 @@ Anna : Great. Goodbye.
 
 Marsha : Goodbye, Anna.  
 
-
+** **
 
 Anna : There is a big supermarket on our street. And Marsha says I am a good cook. Until next time. Bye.
 
