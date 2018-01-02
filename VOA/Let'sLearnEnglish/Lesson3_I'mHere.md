@@ -17,7 +17,7 @@ Anna : Is this 555-8986?
 
 Anna : Oh, Excuse me.
 
-??? : Okay. Bye.
+??? : Okay. Bye.  
 
 
 
@@ -39,7 +39,7 @@ Marsha : Oh, okay. The supermarket is at 1500 Irving Street. It is near the apar
 
 Anna : Great. Goodbye.
 
-Marsha : Goodbye, Anna.
+Marsha : Goodbye, Anna.  
 
 
 
