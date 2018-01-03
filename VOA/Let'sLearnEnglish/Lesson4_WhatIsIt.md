@@ -60,7 +60,8 @@ Anna : I have a pen. Let's get coffee.
 
 #### 매우 길어 정신없지만 재미있는 상황 덕분에 쉽게 따라갈 수 있었다. 
 
-[word]
+**[Word]**
+
 though : used to introduce a statement that makes the main statement coming after it seem surprising, unlikely, or unexpected
 
 though이 문장 맨 뒤에 붙음으로써 문장의 내용을 부드럽게(약하게)만들어준다.
